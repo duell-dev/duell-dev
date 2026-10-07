@@ -1,9 +1,8 @@
 # 💫 About Me:
 - 💻 IT / DevOps engineer from Hungary
 - 🧰 I work with Kubernetes, Docker, GitLab CI, AWX and a lot of Linux
-- 🎮 Aspiring solo indie gamedev in Unreal Engine 5
 - 🤖 I enjoy automation, internal tools, and playing with AI in real-world workflows
-- ☕ Believes most problems are solvable with good logs, good docs and good coffee  
+- ⚡ Believes most problems are solvable with good logs, good docs and a Monster 
 
 
 ## 🌐 Socials:
@@ -41,9 +40,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) 
-# 🎉 Fun:
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=duell-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
